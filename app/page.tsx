@@ -25,7 +25,7 @@ function NoSearchDefaultPage() {
       <div className="w-fit h-fit flex flex-col items-center gap-2">
         <div className="text-2xl font-bold text-center">Search</div>
         <div className="text-center text-sm text-muted-foreground">
-          You can use <Link href="https://duckduckgo.com/bang.html" target="_blank" className="underline underline-offset-2 hover:text-accent-foreground transition duration-200">all of DuckDuckGo's bangs.</Link><br />
+          You can use <Link href="https://duckduckgo.com/bang.html" target="_blank" className="underline underline-offset-2 hover:text-accent-foreground transition duration-200">all of DuckDuckGo&apos;s bangs.</Link><br />
           Start by adding the following URL as a custom search engine to your browser.
         </div>
         <div className="relative w-[13.7rem]">
